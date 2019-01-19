@@ -1,0 +1,17 @@
+h1{
+	color: navy;
+	font-family: Roboto;
+}
+img{
+	width: 450px;
+	margin: 50px;
+	height: 160px;
+}
+body{
+	background-color: lightblue;
+}
+p{
+	background-color: orange;
+	font-family: Impact;
+	color: green;
+}
