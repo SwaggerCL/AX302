@@ -50,6 +50,7 @@ function create(){
 var star = stars.create( i*70 , 0 , "star");
 star.body.gravity.y = 200;
 star.body.bounce.y = Math.random()*0.2 + 0.7
+
 		}
 		cursors = game.input.keyboard.createCursorKeys()
 		wKey = game.input.keyboard.addKey(Phaser.Keyboard.W)
